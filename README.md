@@ -12,4 +12,4 @@
 
 [kNN](https://colab.research.google.com/drive/1cqUzEaZm99d24M5CZJz85xTJ_Thh1J68?usp=sharing)
 
-[EDA CNN DeepFake](https://colab.research.google.com/drive/130QBBkNkPRBlFwFDc-piWzFQ6E6x3Q_y?usp=sharing)
+[EDA CNN DeepFake](https://colab.research.google.com/drive/1Bu1dBCFchaBeig3N8KSyOtWn90HERTRR?usp=sharing)
