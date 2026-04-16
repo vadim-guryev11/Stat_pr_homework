@@ -11,3 +11,5 @@
 [4 дз](https://colab.research.google.com/drive/10ENWrUdotSd0qgNKgBNcab43FRJ27wk-?usp=sharing)
 
 [дз kNN](https://colab.research.google.com/drive/1cqUzEaZm99d24M5CZJz85xTJ_Thh1J68?usp=sharing)
+
+[EDA](https://colab.research.google.com/drive/130QBBkNkPRBlFwFDc-piWzFQ6E6x3Q_y?usp=sharing)
